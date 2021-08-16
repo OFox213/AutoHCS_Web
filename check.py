@@ -17,5 +17,6 @@ region = form.getvalue('region');
 school = form.getvalue('school');
 password = form.getvalue('password');
 level = form.getvalue('level');
-data = hcskr.selfcheck(name, birth, region, school, level, password)
+index = form.getvalue('index');
+data = hcskr.selfcheck(name, birth, region, school, level, password, index)
 print(data)
