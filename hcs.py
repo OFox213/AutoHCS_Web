@@ -236,7 +236,7 @@ async def asyncUserLogin(
         code=info["schoolcode"], level=info["schoollevel"], org=schoolname
     )
 
-    if len(school_infos["schulList"]) > 5:
+    if len(school_infos["schulList"]) > 15:
         return {
             "error": True,
             "code": "NOSCHOOL",
