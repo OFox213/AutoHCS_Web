@@ -15,8 +15,8 @@ selfcheck(name: str, birth: str, area: str, schoolname: str, level: str, passwor
 이를 해결하기 위해 15개 이상 검색될 경우(그냥 제한 해제가 아닌가..?) 더 상세하게 학교명을 입력하라는 메시지를 출력하도록 하였습니다.
 
 
-### 📚 라이브러리 및 라이센스
-GPL v3 [hcskr](https://github.com/331leo/hcskr_python) 라이브러리가 사용되었습니다.
+###~~📚 라이브러리 및 라이센스~~(DELETED PROJECT)
+~~GPL v3 [hcskr](https://github.com/331leo/hcskr_python) 라이브러리가 사용되었습니다.~~
 
 ### 📄 사용전
 ```
